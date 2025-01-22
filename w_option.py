@@ -6,7 +6,7 @@
 
 
 
-
-with open("example.txt", "a") as file:
-    file.write("bu qacongi.\n")
-    file.write("2-qator.\n")
+#
+# with open("example.txt", "a") as file:
+#     file.write("bu qacongi.\n")
+#     file.write("2-qator.\n")
