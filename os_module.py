@@ -1,0 +1,11 @@
+
+
+import os
+
+file_path = "example.txt"
+if os.path.exists(file_path):
+    os.remove(file_path)
+    print(f"fayl {file_path} ochirildi")
+
+else:
+    print("fayl mavjud emas")
