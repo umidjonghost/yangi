@@ -362,14 +362,14 @@
 
 
 
-def recursive_sum(lst):
-    if not lst:
-        return 0
-    else:
-        return lst[0] + recursive_sum(lst[1:])
-
-numbers = [1, 2, 3, 4, 5]
-print(recursive_sum(numbers))
+# def recursive_sum(lst):
+#     if not lst:
+#         return 0
+#     else:
+#         return lst[0] + recursive_sum(lst[1:])
+#
+# numbers = [1, 2, 3, 4, 5]
+# print(recursive_sum(numbers))
 
 
 

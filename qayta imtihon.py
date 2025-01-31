@@ -1,4 +1,6 @@
 ### 6-misol
+from dataclasses import replace
+
 
 # def toq_son(n):
 #     return n % 2 != 0
@@ -69,10 +71,15 @@
 # son = [1,2,3,4,5]
 # print(list_yigindi(son))
 
-
-
-
-
+## 5-misol
+# def setter(list):
+#     replace('-','')
+#     replace(' ','')
+#     replace(',','')
+#
+# print(setter("AI-powered spreadsheets help you and your team manage, visualize and analyze data."))
+#
+# setter()
 
 
 
